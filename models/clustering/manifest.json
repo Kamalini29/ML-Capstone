@@ -1,0 +1,10 @@
+{
+  "track": "clustering",
+  "sklearn": "1.7.2",
+  "python": "3.13.9",
+  "models": {
+    "K-Means (k=2)": "K_Means_k_2.joblib",
+    "Agglomerative (ward) - nearest-centroid assignment": "Agglomerative_ward_nearest_centroid_assignment.joblib"
+  },
+  "extras": {}
+}
