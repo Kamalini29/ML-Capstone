@@ -262,4 +262,4 @@ data/*.xlsx
 
 # ── Logs / temp ────────────────────────────────────────
 *.log
-.cache/
+.cache/models/*_all_models.pkl

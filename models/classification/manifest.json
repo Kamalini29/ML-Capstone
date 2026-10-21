@@ -1,0 +1,23 @@
+{
+  "track": "classification",
+  "sklearn": "1.7.2",
+  "python": "3.13.9",
+  "models": {
+    "Logistic Regression": "Logistic_Regression.joblib",
+    "KNN Classifier": "KNN_Classifier.joblib",
+    "Naive Bayes": "Naive_Bayes.joblib",
+    "Decision Tree": "Decision_Tree.joblib",
+    "SVM (SVC)": "SVM_SVC.joblib",
+    "Random Forest": "Random_Forest.joblib",
+    "AdaBoost": "AdaBoost.joblib",
+    "Gradient Boosting": "Gradient_Boosting.joblib",
+    "Bagging (Decision Tree)": "Bagging_Decision_Tree.joblib",
+    "MLP Classifier": "MLP_Classifier.joblib",
+    "Random Forest (tuned)": "Random_Forest_tuned.joblib",
+    "Bagging (tuned)": "Bagging_tuned.joblib"
+  },
+  "extras": {
+    "label_encoder": "label_encoder.joblib"
+  },
+  "scaler": "scaler.joblib"
+}

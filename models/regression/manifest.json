@@ -1,0 +1,22 @@
+{
+  "track": "regression",
+  "sklearn": "1.7.2",
+  "python": "3.13.9",
+  "models": {
+    "Linear Regression": "Linear_Regression.joblib",
+    "Ridge Regression": "Ridge_Regression.joblib",
+    "Lasso Regression": "Lasso_Regression.joblib",
+    "ElasticNet Regression": "ElasticNet_Regression.joblib",
+    "Polynomial Regression (deg=2)": "Polynomial_Regression_deg_2.joblib",
+    "Polynomial Regression (deg=3)": "Polynomial_Regression_deg_3.joblib",
+    "Decision Tree Regressor": "Decision_Tree_Regressor.joblib",
+    "Random Forest Regressor": "Random_Forest_Regressor.joblib",
+    "Gradient Boosting Regressor": "Gradient_Boosting_Regressor.joblib",
+    "Support Vector Regressor": "Support_Vector_Regressor.joblib",
+    "KNN Regressor": "KNN_Regressor.joblib",
+    "Random Forest Regressor (tuned)": "Random_Forest_Regressor_tuned.joblib",
+    "Support Vector Regressor (tuned)": "Support_Vector_Regressor_tuned.joblib"
+  },
+  "extras": {},
+  "scaler": "scaler.joblib"
+}
